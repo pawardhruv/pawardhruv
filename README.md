@@ -2,7 +2,8 @@
 
 <!-- HEADER BANNER (Replace pawardhruv/repo-image-path.jpg with your banner asset) -->
 <!-- Placeholder reference image from Jarir's structure: [cite: 10] -->
-<img width="1672" height="941" alt="Cinematic Full Stack Developer Workspace" src="https://github.com/user-attachments/assets/be285b71-d0f1-4a44-a9dd-71203cdf01f0" />
+<img width="1983" height="793" alt="Dhruv Pawar Developer Workspace Banner" src="https://github.com/user-attachments/assets/6e81df06-77f3-4c12-9e34-8ed88739e8ca" />
+
 
 
 # Hey there! I'm Dhruv Pawar
