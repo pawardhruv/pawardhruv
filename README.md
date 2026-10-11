@@ -51,7 +51,7 @@ Engineering high-performance full-stack applications with modular architecture a
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pawardhruv&theme=dark&hide_border=true&date_format=j%2FM%2FY" alt="GitHub Streak" />
   <!-- Contribution Graph placeholder image concept [cite: 16] -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawardhruv&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+ <img src="https://svg.srap.me/github-readme-activity-graph?username=pawardhruv&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
