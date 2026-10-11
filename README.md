@@ -2,7 +2,8 @@
 
 <!-- HEADER BANNER (Replace pawardhruv/repo-image-path.jpg with your banner asset) -->
 <!-- Placeholder reference image from Jarir's structure: [cite: 10] -->
-<img src="https://raw.githubusercontent.com/theonlypawar/theonlypawar/main/images/pawar-header-banner.png" alt="Dhruv Pawar Header Banner" width="1000">
+<img src="https://raw.githubusercontent.com/theonlypawar/theonlypawar/main/images/pawar-header-banner.png![Uploading Cinematic Full Stack Developer Workspace.png…]()
+" alt="Dhruv Pawar Header Banner" width="1000">
 
 # Hey there! I'm Dhruv Pawar
 
