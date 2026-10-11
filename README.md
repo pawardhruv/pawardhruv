@@ -2,8 +2,8 @@
 
 <!-- HEADER BANNER (Replace pawardhruv/repo-image-path.jpg with your banner asset) -->
 <!-- Placeholder reference image from Jarir's structure: [cite: 10] -->
-<img src="https://raw.githubusercontent.com/theonlypawar/theonlypawar/main/images/pawar-header-banner.png![Uploading Cinematic Full Stack Developer Workspace.png…]()
-" alt="Dhruv Pawar Header Banner" width="1000">
+<img width="1672" height="941" alt="Cinematic Full Stack Developer Workspace" src="https://github.com/user-attachments/assets/be285b71-d0f1-4a44-a9dd-71203cdf01f0" />
+
 
 # Hey there! I'm Dhruv Pawar
 
@@ -191,12 +191,3 @@ Engineering high-performance full-stack applications with modular architecture a
 <img src="https://raw.githubusercontent.com/theonlypawar/theonlypawar/main/images/line_separator.png" width="100%" />
 
 </div>
-
----
-
-## 🗓️ Learning & Education Journey
-
-```text
-2022 - 2025  : BCA Degree @ S. S. Agrawal College, Navsari
-2024 - 2025  : Full Stack Web Development @ Red & White Skills Institute
-2026 - Present : Building Production Projects & Applying for WFH/On-site Full Stack Roles
