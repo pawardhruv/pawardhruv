@@ -86,15 +86,24 @@ Engineering high-performance full-stack applications with modular architecture a
 
 ---
 
-<!-- SKILL PROFICIENCY BARS WITH ANIMATION REFERENCE: [cite: 12] -->
+<!-- SKILL PROFICIENCY SECTION: Ye bars hamesha live aur same size mein render hongi -->
 ## <img src="https://img.icons8.com/color/48/000000/skill.png" width="28"> Skill Proficiency
 
 <div align="center">
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=40&name=React%2019&p=92&theme=dark" alt="React Proficiency" />
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=40&name=Node.js&p=88&theme=dark" alt="Node.js Proficiency" />
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=40&name=Laravel&p=85&theme=dark" alt="Laravel Proficiency" />
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=40&name=MongoDB&p=82&theme=dark" alt="MongoDB Proficiency" />
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=40&name=REST%20API%20Design&p=80&theme=dark" alt="API Proficiency" />
+  <!-- React 19 Proficiency Bar -->
+  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=40&name=React%2019&p=92&theme=dark" alt="React 19" />
+  
+  <!-- Node.js Proficiency Bar -->
+  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=40&name=Node.js&p=88&theme=dark" alt="Node.js" />
+  
+  <!-- Laravel Proficiency Bar -->
+  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=40&name=Laravel&p=85&theme=dark" alt="Laravel" />
+  
+  <!-- MongoDB Proficiency Bar -->
+  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=40&name=MongoDB&p=82&theme=dark" alt="MongoDB" />
+  
+  <!-- REST API Design Proficiency Bar -->
+  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=40&name=REST%20API%20Design&p=80&theme=dark" alt="REST API" />
 </div>
 
 ---
