@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER (Replace pawardhruv/repo-image-path.jpg with your banner asset) -->
-<!-- Placeholder reference image from Jarir's structure: [cite: 10] -->
+<!-- Placeholder reference image from Jarir's structure: -->
 <img width="1983" height="793" alt="Dhruv Pawar Developer Workspace Banner" src="https://github.com/user-attachments/assets/6e81df06-77f3-4c12-9e34-8ed88739e8ca" />
 
 
@@ -12,7 +12,7 @@
 <!-- TYPING ANIMATION (Placeholder image placeholder reference from the concept) -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDF00&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Developer+%7C+MERN+%26+PHP%2FLaravel+Engineer;Building+Scalable+Web+Applications;Responsive+UI+Design+%26+Clean+RESTful+APIs;BCA+Graduate+with+Production-Level+Experience" alt="Typing Animation" />
 
-<!-- KEY FOCUS STATEMENT & CTA REFERENCE: [cite: 10] -->
+<!-- KEY FOCUS STATEMENT & CTA REFERENCE: -->
 Engineering high-performance full-stack applications with modular architecture and modern UI standards.
 
 [![](https://img.shields.io/badge/Connect_With_Me-FFFFFF?style=for-the-badge&logoColor=black)](https://linkedin.com/in/theonlypawar)
@@ -24,24 +24,24 @@ Engineering high-performance full-stack applications with modular architecture a
 </div>
 
 <!-- ABOUT ME SECTION -->
-## <img width="1152" height="864" alt="about me" src="https://github.com/user-attachments/assets/0f5a90f9-43e2-4f78-9e63-d9b52892ec55" />
 
 
-<!-- Background Placeholder image reference concept from concept [cite: 10] -->
+<!-- Background Placeholder image reference concept from concept -->
 <div align="center">
-  <img align="right" width="400" src="https://theonlypawar.vercel.app/images/about_me_placeholder.png" alt="About Me Illustration" />
+  
+
 </div>
 
 - 📜 **Role:** **Full Stack MERN & PHP/Laravel Developer**
-- 🎓 **Education:** BCA Graduate (Class of 2025) from **S. S. Agrawal College, Navsari**[cite: 10].
-- 📜 **Certification:** Professional Training from **Red & White Skills Institute, Navsari**[cite: 10].
-- 💡 **Core Expertise:** Building scalable web architectures, pixel-perfect UIs, and robust REST APIs[cite: 10].
-- 🚀 **Currently Building:** [cite: 10] e-Commerce & SaaS style applications with focus on microservices.
+- 🎓 **Education:** BCA Graduate (Class of 2025) from **S. S. Agrawal College, Navsari**.
+- 📜 **Certification:** Professional Training from **Red & White Skills Institute, Navsari**.
+- 💡 **Core Expertise:** Building scalable web architectures, pixel-perfect UIs, and robust REST APIs.
+- 🚀 **Currently Building:**  e-Commerce & SaaS style applications with focus on microservices.
 - 🎯 **Looking For:** Full-time or Remote Full Stack roles starting now.
 
 ---
 
-<!-- GITHUB QUICK STATS ANIMATIONS REFERENCE: [cite: 11] -->
+<!-- GITHUB QUICK STATS ANIMATIONS REFERENCE: -->
 ## <img src="https://img.icons8.com/fluency/48/000000/graph.png" width="28"> Quick Stats & Analytics
 
 <div align="center">
@@ -51,12 +51,12 @@ Engineering high-performance full-stack applications with modular architecture a
   
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pawardhruv&theme=dark&hide_border=true&date_format=j%2FM%2FY" alt="GitHub Streak" />
-  <!-- Contribution Graph placeholder image concept [cite: 16] -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawardhruv&theme=zenburn" alt="GitHub Activity Summary"         width="100%" />
+  <!-- Contribution Graph placeholder image concept -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawardhruv&theme=zenburn" alt="GitHub Activity Summary" width="100%" />
 
 ---
 
-<!-- TECH STACK & ECOSYSTEM REFERENCE: [cite: 11] -->
+<!-- TECH STACK & ECOSYSTEM REFERENCE: -->
 ## <img src="https://img.icons8.com/color/48/000000/programming.png" width="28"> Tech Stack & Skill Ecosystem
 
 ### 🎨 Frontend Engineering
@@ -99,7 +99,7 @@ Engineering high-performance full-stack applications with modular architecture a
 
 ---
 
-<!-- FEATURED PROJECTS REFERENCE: [cite: 13, 14] -->
+<!-- FEATURED PROJECTS REFERENCE: -->
 ## <img src="https://img.icons8.com/color/48/000000/product.png" width="28"> Featured Projects & Production Repositories
 
 <!-- Project Cards will require a few additional images in pawardhruv/images/ -->
@@ -144,7 +144,7 @@ Engineering high-performance full-stack applications with modular architecture a
 
 ---
 
-<!-- MY DEVELOPMENT PROCESS REFERENCE: [cite: 14] -->
+<!-- MY DEVELOPMENT PROCESS REFERENCE: -->
 ## <img src="https://img.icons8.com/fluency/48/000000/process.png" width="28"> My Development Process
 
 <div align="center">
@@ -153,7 +153,7 @@ Engineering high-performance full-stack applications with modular architecture a
 
 ---
 
-<!-- MY JOURNEY TIMELINE REFERENCE: [cite: 14] -->
+<!-- MY JOURNEY TIMELINE REFERENCE: -->
 ## <img src="https://img.icons8.com/fluency/48/000000/timeline.png" width="28"> My Journey Timeline
 
 <div align="center">
@@ -162,21 +162,21 @@ Engineering high-performance full-stack applications with modular architecture a
 
 ---
 
-<!-- TESTIMONIALS & FAQ REFERENCE: [cite: 17, 18] -->
+<!-- TESTIMONIALS & FAQ REFERENCE: -->
 ## <img src="https://img.icons8.com/color/48/000000/ask-question.png" width="28"> Quick FAQ & What People Say
 
 ### Testimonials
 > "Dhruv is a motivated developer who builds intuitive web solutions. His dedication to learning the MERN stack in BCA is commendable."
-> *— Full Stack Instructor, Red & White Skills Institute, Navsari*[cite: 18]
+> *— Full Stack Instructor, Red & White Skills Institute, Navsari*
 
 <details>
   <summary><b>FAQ: What kind of projects are you looking for?</b></summary>
-  I'm focused on full-stack web roles (MERN, PHP/Laravel, Next.js) starting late 2026/early 2027. My current roadmap is to build 5+ more production-ready microservice projects before my job search begins[cite: 17].
+  I'm focused on full-stack web roles (MERN, PHP/Laravel, Next.js) starting late 2026/early 2027. My current roadmap is to build 5+ more production-ready microservice projects before my job search begins[.
 </details>
 
 <details>
   <summary><b>FAQ: What is your current tech stack of choice?</b></summary>
-  Current production favorites: **React 19, Node.js, Express, MongoDB, Laravel 11, and TypeScript**. I focus on clean architecture and strict code standards[cite: 17].
+  Current production favorites: **React 19, Node.js, Express, MongoDB, Laravel 11, and TypeScript**. I focus on clean architecture and strict code standards.
 </details>
 
 ---
