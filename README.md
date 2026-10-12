@@ -86,25 +86,21 @@ Engineering high-performance full-stack applications with modular architecture a
 
 ---
 
-<!-- SKILL PROFICIENCY SECTION: Ye bars hamesha live aur same size mein render hongi -->
-## <img src="https://img.icons8.com/color/48/000000/skill.png" width="28"> Skill Proficiency
+<h2 align="left">🛠️ Skill Proficiency</h2>
 
-<div align="center">
-  <!-- React 19 Proficiency Bar -->
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=40&name=React%2019&p=92&theme=dark" alt="React 19" />
-  
-  <!-- Node.js Proficiency Bar -->
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=40&name=Node.js&p=88&theme=dark" alt="Node.js" />
-  
-  <!-- Laravel Proficiency Bar -->
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=40&name=Laravel&p=85&theme=dark" alt="Laravel" />
-  
-  <!-- MongoDB Proficiency Bar -->
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=40&name=MongoDB&p=82&theme=dark" alt="MongoDB" />
-  
-  <!-- REST API Design Proficiency Bar -->
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=40&name=REST%20API%20Design&p=80&theme=dark" alt="REST API" />
-</div>
+<p align="center">
+  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=React%2019&p=92&theme=dark" /><br/>
+  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=JavaScript&p=90&theme=dark" /><br/>
+  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=Node.js&p=85&theme=dark" /><br/>
+  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=Express.js&p=82&theme=dark" /><br/>
+  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=MongoDB&p=80&theme=dark" /><br/>
+  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=PHP%20%2F%20Laravel&p=84&theme=dark" /><br/>
+  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=HTML5%20%2F%20CSS3&p=95&theme=dark" /><br/>
+  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=Tailwind%20CSS&p=88&theme=dark" /><br/>
+  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=Bootstrap%205&p=86&theme=dark" /><br/>
+  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=Git%20%26%20GitHub&p=88&theme=dark" /><br/>
+  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=REST%20API%20Design&p=85&theme=dark" />
+</p>
 
 ---
 
