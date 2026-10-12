@@ -99,14 +99,13 @@ Engineering high-performance full-stack applications with modular architecture a
 
 ---
 
-### 1. 🛒 CARTORA — MERN Stack e-Commerce Platform
-> A full-stack e-commerce electronics platform featuring dynamic product filtering, secure cart management, RESTful APIs, and responsive UI.
+### 1. 🎓 COLLEGE MANAGEMENT SYSTEM — Full Stack MERN Platform
+> A comprehensive institutional portal designed to streamline student enrollment, course management, attendance tracking, faculty assignments, and internal grading systems.
 
-<img width="1330" height="669" alt="collegemanagementsystum" src="https://github.com/user-attachments/assets/eab7790e-5795-493f-a59f-82c882228f5b" />
+![College Management System Homepage](https://raw.githubusercontent.com/pawardhruv/College-Management-System/main/screenshot.png)
 
-
-* **Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `REST API`
-* **Links:** [📁 Source Code](https://github.com/pawardhruv/Cartora) | [🌐 Live Demo ↗](vr-bro-s-garage.vercel.app)
+* **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `REST API` `Tailwind CSS`
+* **Links:** [📁 Source Code](https://github.com/pawardhruv/college-management-system.git) | [🌐 Live Demo ↗](https://college-management-pawar.vercel.app)
 
 ---
 
@@ -115,32 +114,8 @@ Engineering high-performance full-stack applications with modular architecture a
 
 <img width="1331" height="668" alt="vr bros garage" src="https://github.com/user-attachments/assets/1f29b9c4-e9e4-4e6a-a57b-348224da17b5" />
 
-
-
-
 * **Tech Stack:** `PHP 8` `Laravel 11` `MySQL` `Bootstrap 5` `REST API`
 * **Links:**([https://github.com/pawardhruv/VR-Bro-s-Garage](https://github.com/pawardhruv/VR-Bro-s-Garage-.git)) | [🌐 Live Demo ↗](vr-bro-s-garage.vercel.app)
-
----
-
-### 3. 🎩 NOIR — Luxury Fashion Web Experience
-> An Awwwards-grade luxury clothing web experience featuring GSAP ScrollTrigger timelines, clip-path morphing menu navigation, live statistics counters, and Lenis smooth scrolling.
-
-![Noir Homepage](https://raw.githubusercontent.com/pawardhruv/Noir-Luxury-Fashion/main/screenshot.png)
-
-* **Tech Stack:** `HTML5` `Tailwind CSS` `JavaScript` `GSAP Animations` `Lenis Scroll`
-* **Links:** [📁 Source Code](https://github.com/pawardhruv/Noir-Luxury-Fashion) | [🌐 Live Demo ↗](https://noir-fashion.vercel.app)
-
----
-
-### 4. 👥 emsPRO — Employee Management System
-> Comprehensive Employee Management System supporting full CRUD operations, role assignment, MongoDB persistence, Express REST endpoints, and reactive employee search.
-
-![emsPRO Homepage](https://raw.githubusercontent.com/pawardhruv/emsPRO/main/screenshot.png)
-
-* **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `REST API`
-* **Links:** [📁 Source Code](https://github.com/pawardhruv/emsPRO) | [🌐 Live Demo ↗](https://emspro-pawar.vercel.app)
-
 
 ---
 
