@@ -102,21 +102,24 @@ Engineering high-performance full-stack applications with modular architecture a
 ### 1. 🎓 COLLEGE MANAGEMENT SYSTEM — Full Stack MERN Platform
 > A comprehensive institutional portal designed to streamline student enrollment, course management, attendance tracking, faculty assignments, and internal grading systems.
 
-<img width="1330" height="669" alt="collegemanagementsystum" src="https://github.com/user-attachments/assets/afdc63df-c64c-44df-9b8c-13158da76378" />
+<p align="center">
+  <img width="700" alt="collegemanagementsystum" src="https://github.com/user-attachments/assets/afdc63df-c64c-44df-9b8c-13158da76378" />
+</p>
 
-
-* **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `REST API` `Tailwind CSS`
-* **Links:** [📁 Source Code](https://github.com/pawardhruv/college-management-system.git) | [🌐 Live Demo ↗](https://college-management-pawar.vercel.app)
+- **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `REST API` `Tailwind CSS`
+- **Links:** [📁 Source Code](https://github.com/pawardhruv/college-management-system.git) | [🌐 Live Demo ↗](https://college-management-pawar.vercel.app)
 
 ---
 
 ### 2. 🚗 VR BRO'S GARAGE — Automotive Service Management
 > Comprehensive Automotive Service Management System supporting full CRUD operations, customer service bookings, vehicle history records, and interactive dashboard.
 
-<img width="1331" height="668" alt="vr bros garage" src="https://github.com/user-attachments/assets/1f29b9c4-e9e4-4e6a-a57b-348224da17b5" />
+<p align="center">
+  <img width="700" alt="vr bros garage" src="https://github.com/user-attachments/assets/1f29b9c4-e9e4-4e6a-a57b-348224da17b5" />
+</p>
 
-* **Tech Stack:** `PHP 8` `Laravel 11` `MySQL` `Bootstrap 5` `REST API`
-* **Links:**([https://github.com/pawardhruv/VR-Bro-s-Garage](https://github.com/pawardhruv/VR-Bro-s-Garage-.git)) | [🌐 Live Demo ↗](vr-bro-s-garage.vercel.app)
+- **Tech Stack:** `PHP 8` `Laravel 11` `MySQL` `Bootstrap 5` `REST API`
+- **Links:** [📁 Source Code](https://github.com/pawardhruv/VR-Bro-s-Garage) | [🌐 Live Demo ↗](https://vr-bro-s-garage.vercel.app)
 
 ---
 
