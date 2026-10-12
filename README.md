@@ -115,7 +115,7 @@ Engineering high-performance full-stack applications with modular architecture a
 ![VR Bro's Garage Homepage](https://raw.githubusercontent.com/pawardhruv/VR-Bro-s-Garage/main/screenshot.png)
 
 * **Tech Stack:** `PHP 8` `Laravel 11` `MySQL` `Bootstrap 5` `REST API`
-* **Links:** [📁 Source Code]([https://github.com/pawardhruv/VR-Bro-s-Garage](https://github.com/pawardhruv/VR-Bro-s-Garage-.git)) | [🌐 Live Demo ↗](https://vrgarage.theonlypawar.com)
+* **Links:**([https://github.com/pawardhruv/VR-Bro-s-Garage](https://github.com/pawardhruv/VR-Bro-s-Garage-.git)) | [🌐 Live Demo ↗](vr-bro-s-garage.vercel.app)
 
 ---
 
