@@ -88,19 +88,15 @@ Engineering high-performance full-stack applications with modular architecture a
 
 <h2 align="left">🛠️ Skill Proficiency</h2>
 
-<p align="center">
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=React%2019&p=92&theme=dark" /><br/>
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=JavaScript&p=90&theme=dark" /><br/>
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=Node.js&p=85&theme=dark" /><br/>
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=Express.js&p=82&theme=dark" /><br/>
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=MongoDB&p=80&theme=dark" /><br/>
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=PHP%20%2F%20Laravel&p=84&theme=dark" /><br/>
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=HTML5%20%2F%20CSS3&p=95&theme=dark" /><br/>
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=Tailwind%20CSS&p=88&theme=dark" /><br/>
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=Bootstrap%205&p=86&theme=dark" /><br/>
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=Git%20%26%20GitHub&p=88&theme=dark" /><br/>
-  <img src="https://skill-bars.vercel.app/api/skill-bar?width=800&height=35&name=REST%20API%20Design&p=85&theme=dark" />
-</p>
+<div align="center">
+  <img src="https://deno-skill-badges.deno.dev/React%2019-92?bg=1e293b&color=61dafb" alt="React" /><br/>
+  <img src="https://deno-skill-badges.deno.dev/JavaScript-90?bg=1e293b&color=f7df1e" alt="JS" /><br/>
+  <img src="https://deno-skill-badges.deno.dev/Node.js-85?bg=1e293b&color=339933" alt="Node" /><br/>
+  <img src="https://deno-skill-badges.deno.dev/Express.js-82?bg=1e293b&color=ffffff" alt="Express" /><br/>
+  <img src="https://deno-skill-badges.deno.dev/MongoDB-80?bg=1e293b&color=47a248" alt="Mongo" /><br/>
+  <img src="https://deno-skill-badges.deno.dev/PHP%20%2F%20Laravel-84?bg=1e293b&color=ff2d20" alt="Laravel" /><br/>
+  <img src="https://deno-skill-badges.deno.dev/Tailwind%20CSS-88?bg=1e293b&color=38b2ac" alt="Tailwind" />
+</div>
 
 ---
 
