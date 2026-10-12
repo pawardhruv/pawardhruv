@@ -96,48 +96,103 @@ Engineering high-performance full-stack applications with modular architecture a
 
 ---
 
-<!-- FEATURED PROJECTS REFERENCE: -->
-## <img src="https://img.icons8.com/color/48/000000/product.png" width="28"> Featured Projects & Production Repositories
+<h2 align="left">💻 Featured Projects & Production Repositories</h2>
 
-<!-- Project Cards will require a few additional images in pawardhruv/images/ -->
-<div align="center">
-  
-  <!-- PROJECT 1: Cartora -->
-  <div style="margin: 10px; border: 1px solid #ffffff; padding: 15px; width: 300px; text-align: left;">
-    <img src="https://raw.githubusercontent.com/pawardhruv/Cartora/main/images/cartora_thumbnail.png" alt="Cartora Thumbnail" width="100%" />
-    <h3>🛒 CARTORA</h3>
-    <p><em>MERN Stack e-Commerce Platform</em></p>
-    <p>A full-stack e-commerce solution featuring secure payments, cart filtering, and robust admin dashboard.</p>
-    <div>
-        ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
-        ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-        ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-    </div>
-    <br/>
-    [cite: Source Code](https://github.com/pawardhruv/Cartora) | [cite: Live Demo](https://cartora-pawar.vercel.app)
-  </div>
+<table width="100%">
+  <!-- ROW 1: Project 1 (CARTORA) & Project 2 (VR BRO'S GARAGE) -->
+  <tr>
+    <!-- PROJECT 1: CARTORA -->
+    <td width="50%" valign="top">
+      <br/>
+      <h3 align="center">💻 CARTORA</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MERN_Stack-Full_Stack_E--Commerce-00CED1?style=flat-square" />
+      </p>
+      <p>A scalable full-stack e-commerce electronics platform built with the complete MERN stack. Features dynamic product filtering, secure cart management, RESTful APIs, and responsive UI.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-007ACC?style=flat-square" />
+      </p>
+      <p align="center">
+        📁 <a href="https://github.com/pawardhruv/Cartora">Source Code</a> • 🌐 <a href="https://cartora-pawar.vercel.app">Live Demo ↗</a>
+      </p>
+      <br/>
+    </td>
 
-  <!-- PROJECT 2: VR Bro's Garage -->
-  <div style="margin: 10px; border: 1px solid #ffffff; padding: 15px; width: 300px; text-align: left;">
-     <img src="https://raw.githubusercontent.com/pawardhruv/VR-Bro-s-Garage/main/images/vrgarage_thumbnail.png" alt="VR Garage Thumbnail" width="100%" />
-    <h3>🚘 VR BRO'S GARAGE</h3>
-    <p><em>PHP/Laravel Automotive Service App</em></p>
-    <p>Responsive automotive service management system with customer booking and vehicle history features.</p>
-    <div>
-        ![PHP 8](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php)
-        ![Laravel 11](https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel)
-        ![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap)
-    </div>
-    <br/>
-    [cite: Source Code](https://github.com/pawardhruv/VR-Bro-s-Garage) | [cite: Live Demo](https://vrgarage.theonlypawar.com)
-  </div>
-  
-</div>
+    <!-- PROJECT 2: VR BRO'S GARAGE -->
+    <td width="50%" valign="top">
+      <br/>
+      <h3 align="center">💻 VR BRO'S GARAGE</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP_Laravel-Automotive_Service_App-FF2D20?style=flat-square" />
+      </p>
+      <p>Comprehensive Automotive Service Management System supporting full CRUD operations, customer service bookings, vehicle history records, and reactive search dashboard.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-007ACC?style=flat-square" />
+      </p>
+      <p align="center">
+        📁 <a href="https://github.com/pawardhruv/VR-Bro-s-Garage">Source Code</a> • 🌐 <a href="https://vrgarage.theonlypawar.com">Live Demo ↗</a>
+      </p>
+      <br/>
+    </td>
+  </tr>
 
-<div align="center">
-  <br/>
-  [cite: 🔥 View All Repositories](https://github.com/pawardhruv?tab=repositories)
-</div>
+  <!-- ROW 2: Project 3 (NOIR LUXURY) & Project 4 (EMPLOYEE MANAGEMENT SYSTEM) -->
+  <tr>
+    <!-- PROJECT 3: NOIR LUXURY -->
+    <td width="50%" valign="top">
+      <br/>
+      <h3 align="center">💻 NOIR</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Creative_Web-Luxury_Fashion-FF69B4?style=flat-square" />
+      </p>
+      <p>An Awwwards-grade luxury clothing web experience featuring GSAP ScrollTrigger timelines, clip-path morphing menu navigation, live statistics counters, and Lenis smooth scrolling.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+        <img src="https://img.shields.io/badge/Lenis-000000?style=flat-square" />
+      </p>
+      <p align="center">
+        📁 <a href="https://github.com/pawardhruv/Noir-Luxury-Fashion">Source Code</a> • 🌐 <a href="https://noir-fashion.vercel.app">Live Demo ↗</a>
+      </p>
+      <br/>
+    </td>
+
+    <!-- PROJECT 4: EMS PRO -->
+    <td width="50%" valign="top">
+      <br/>
+      <h3 align="center">💻 emsPRO</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MERN_Stack-Employee_Management-00FA9A?style=flat-square" />
+      </p>
+      <p>Comprehensive Employee Management System supporting full CRUD operations, role assignment, MongoDB persistence, Express REST endpoints, and reactive employee search.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/REST_API-007ACC?style=flat-square" />
+      </p>
+      <p align="center">
+        📁 <a href="https://github.com/pawardhruv/emsPRO">Source Code</a> • 🌐 <a href="https://emspro-pawar.vercel.app">Live Demo ↗</a>
+      </p>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  🔍 <a href="https://github.com/pawardhruv?tab=repositories"><b>View All Repositories ➔</b></a>
+</p>
 
 ---
 
