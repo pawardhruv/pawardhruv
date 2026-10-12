@@ -158,12 +158,29 @@ Engineering high-performance full-stack applications with modular architecture a
 
 ---
 
-<!-- MY JOURNEY TIMELINE REFERENCE: -->
-## <img src="https://img.icons8.com/fluency/48/000000/timeline.png" width="28"> My Journey Timeline
+## 🗺️ My Journey Timeline
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pawardhruv/pawardhruv/main/images/pawar-timeline.png" alt="Developer Journey Timeline" width="800" />
-</div>
+> **2023 — Academic Base & Foundations**  
+> 🎓 Completed **12th Commerce** Education  
+> 💡 *Focus:* Logical problem solving, analytical thinking, and entering tech.
+
+---
+
+> **2023 - 2025 — Computer Applications Degree**  
+> 🎓 **BCA Graduate** from **S. S. Agrawal College, Navsari**  
+> 💻 *Focus:* Core Programming (C, C++), DBMS, Web Fundamentals, and Software Engineering principles.
+
+---
+
+> **2025 — Full Stack Web Engineering**  
+> 📜 Professional Certification from **Red & White Skills Institute, Navsari**  
+> ⚡ *Focus:* MERN Stack (MongoDB, Express, React, Node) & PHP/Laravel mastery. Built full-stack production apps.
+
+---
+
+> **2026 - Present — Production Engineer & Open Source**  
+> 🚀 Building production-grade apps (**College Management**, **VR Bro's Garage**, **Noir**, **emsPRO**)  
+> 🎯 *Current Goal:* Securing Full Stack Developer roles with scalable web architecture.
 
 ---
 
