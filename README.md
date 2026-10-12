@@ -1,4 +1,4 @@
-<div align="center">
++++++++++++++++++++++++++++++++++++++++++++++++++++<div align="center">
 
 <!-- HEADER BANNER (Replace pawardhruv/repo-image-path.jpg with your banner asset) -->
 <!-- Placeholder reference image from Jarir's structure: -->
@@ -102,7 +102,8 @@ Engineering high-performance full-stack applications with modular architecture a
 ### 1. 🛒 CARTORA — MERN Stack e-Commerce Platform
 > A full-stack e-commerce electronics platform featuring dynamic product filtering, secure cart management, RESTful APIs, and responsive UI.
 
-![Cartora Homepage](https://raw.githubusercontent.com/pawardhruv/Cartora/main/screenshot.png)
+<img width="1330" height="669" alt="collegemanagementsystum" src="https://github.com/user-attachments/assets/eab7790e-5795-493f-a59f-82c882228f5b" />
+
 
 * **Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `REST API`
 * **Links:** [📁 Source Code](https://github.com/pawardhruv/Cartora) | [🌐 Live Demo ↗](vr-bro-s-garage.vercel.app)
@@ -112,7 +113,8 @@ Engineering high-performance full-stack applications with modular architecture a
 ### 2. 🚗 VR BRO'S GARAGE — Automotive Service Management
 > Comprehensive Automotive Service Management System supporting full CRUD operations, customer service bookings, vehicle history records, and interactive dashboard.
 
-![VR Bro's Garage Homepage](https://raw.githubusercontent.com/pawardhruv/VR-Bro-s-Garage/main/screenshot.png)
+![Uploading VR Bro's Garage SS.JPG…]()
+
 
 * **Tech Stack:** `PHP 8` `Laravel 11` `MySQL` `Bootstrap 5` `REST API`
 * **Links:**([https://github.com/pawardhruv/VR-Bro-s-Garage](https://github.com/pawardhruv/VR-Bro-s-Garage-.git)) | [🌐 Live Demo ↗](vr-bro-s-garage.vercel.app)
