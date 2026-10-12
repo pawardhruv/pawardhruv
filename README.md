@@ -41,18 +41,24 @@ Engineering high-performance full-stack applications with modular architecture a
 
 ---
 
-<!-- GITHUB QUICK STATS ANIMATIONS REFERENCE: -->
-## <img src="https://img.icons8.com/fluency/48/000000/graph.png" width="28"> Quick Stats & Analytics
+<!-- QUICK STATS & ANALYTICS SECTION -->
+## 📊 Quick Stats & Analytics
 
 <div align="center">
+  <!-- Top Row: General Stats & Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pawardhruv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dhruv's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawardhruv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=pawardhruv&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawardhruv&layout=compact&theme=dark" alt="Top Languages" height="150" />
-  
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pawardhruv&theme=dark&hide_border=true&date_format=j%2FM%2FY" alt="GitHub Streak" />
-  <!-- Contribution Graph placeholder image concept -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawardhruv&theme=zenburn" alt="GitHub Activity Summary" width="100%" />
+  <br/><br/>
+
+  <!-- Middle Row: Animated Live Streak Counter -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pawardhruv&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
+
+  <br/><br/>
+
+  <!-- Bottom Row: Live Dynamic Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawardhruv&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</div>
 
 ---
 
