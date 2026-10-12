@@ -1,4 +1,4 @@
-+++++++++++++++++++++++++++++++++++++++++++++++++++<div align="center">
+<div align="center">
 
 <!-- HEADER BANNER (Replace pawardhruv/repo-image-path.jpg with your banner asset) -->
 <!-- Placeholder reference image from Jarir's structure: -->
@@ -113,7 +113,9 @@ Engineering high-performance full-stack applications with modular architecture a
 ### 2. 🚗 VR BRO'S GARAGE — Automotive Service Management
 > Comprehensive Automotive Service Management System supporting full CRUD operations, customer service bookings, vehicle history records, and interactive dashboard.
 
-![Uploading VR Bro's Garage SS.JPG…]()
+<img width="1331" height="668" alt="vr bros garage" src="https://github.com/user-attachments/assets/1f29b9c4-e9e4-4e6a-a57b-348224da17b5" />
+
+
 
 
 * **Tech Stack:** `PHP 8` `Laravel 11` `MySQL` `Bootstrap 5` `REST API`
