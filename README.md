@@ -105,7 +105,7 @@ Engineering high-performance full-stack applications with modular architecture a
 ![Cartora Homepage](https://raw.githubusercontent.com/pawardhruv/Cartora/main/screenshot.png)
 
 * **Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `REST API`
-* **Links:** [📁 Source Code](https://github.com/pawardhruv/Cartora) | [🌐 Live Demo ↗](https://cartora-pawar.vercel.app)
+* **Links:** [📁 Source Code](https://github.com/pawardhruv/Cartora) | [🌐 Live Demo ↗](vr-bro-s-garage.vercel.app)
 
 ---
 
@@ -115,7 +115,7 @@ Engineering high-performance full-stack applications with modular architecture a
 ![VR Bro's Garage Homepage](https://raw.githubusercontent.com/pawardhruv/VR-Bro-s-Garage/main/screenshot.png)
 
 * **Tech Stack:** `PHP 8` `Laravel 11` `MySQL` `Bootstrap 5` `REST API`
-* **Links:** [📁 Source Code](https://github.com/pawardhruv/VR-Bro-s-Garage) | [🌐 Live Demo ↗](https://vrgarage.theonlypawar.com)
+* **Links:** [📁 Source Code]([https://github.com/pawardhruv/VR-Bro-s-Garage](https://github.com/pawardhruv/VR-Bro-s-Garage-.git)) | [🌐 Live Demo ↗](https://vrgarage.theonlypawar.com)
 
 ---
 
@@ -137,11 +137,6 @@ Engineering high-performance full-stack applications with modular architecture a
 * **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `REST API`
 * **Links:** [📁 Source Code](https://github.com/pawardhruv/emsPRO) | [🌐 Live Demo ↗](https://emspro-pawar.vercel.app)
 
----
-
-<p align="center">
-  🔍 <b><a href="https://github.com/pawardhruv?tab=repositories">View All Repositories ➔</a></b>
-</p>
 
 ---
 
