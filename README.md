@@ -24,7 +24,8 @@ Engineering high-performance full-stack applications with modular architecture a
 </div>
 
 <!-- ABOUT ME SECTION -->
-## <img src="https://img.icons8.com/color/48/000000/resume.png" width="28"> About Me
+## <img width="1152" height="864" alt="about me" src="https://github.com/user-attachments/assets/0f5a90f9-43e2-4f78-9e63-d9b52892ec55" />
+
 
 <!-- Background Placeholder image reference concept from concept [cite: 10] -->
 <div align="center">
