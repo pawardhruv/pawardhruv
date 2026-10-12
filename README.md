@@ -102,7 +102,8 @@ Engineering high-performance full-stack applications with modular architecture a
 ### 1. 🎓 COLLEGE MANAGEMENT SYSTEM — Full Stack MERN Platform
 > A comprehensive institutional portal designed to streamline student enrollment, course management, attendance tracking, faculty assignments, and internal grading systems.
 
-![College Management System Homepage](https://raw.githubusercontent.com/pawardhruv/College-Management-System/main/screenshot.png)
+<img width="1330" height="669" alt="collegemanagementsystum" src="https://github.com/user-attachments/assets/afdc63df-c64c-44df-9b8c-13158da76378" />
+
 
 * **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `REST API` `Tailwind CSS`
 * **Links:** [📁 Source Code](https://github.com/pawardhruv/college-management-system.git) | [🌐 Live Demo ↗](https://college-management-pawar.vercel.app)
