@@ -15,9 +15,9 @@
 <!-- KEY FOCUS STATEMENT & CTA REFERENCE: -->
 Engineering high-performance full-stack applications with modular architecture and modern UI standards.
 
-[![](https://img.shields.io/badge/Connect_With_Me-FFFFFF?style=for-the-badge&logoColor=black)](https://linkedin.com/in/theonlypawar)
-[![](https://img.shields.io/badge/Available_For_Work-Green?style=for-the-badge&logoColor=black)](https://pawardhruv.vercel.app/contact)
-[![](https://img.shields.io/badge/View_Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://theonlypawar.vercel.app)
+[![](https://img.shields.io/badge/Connect_With_Me-FFFFFF?style=for-the-badge&logoColor=black)](www.linkedin.com/in/pawardhruv-0a0329405)
+[![](https://img.shields.io/badge/Available_For_Work-Green?style=for-the-badge&logoColor=black)](mailto:dhruvpawarff@gmail.com)
+[![](https://img.shields.io/badge/View_Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://thepawar-portfolio.vercel.app)
 
 ---
 
@@ -129,12 +129,32 @@ Engineering high-performance full-stack applications with modular architecture a
 
 ---
 
-<!-- MY DEVELOPMENT PROCESS REFERENCE: -->
-## <img src="https://img.icons8.com/fluency/48/000000/process.png" width="28"> My Development Process
+## 🔄 My Development Process
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pawardhruv/pawardhruv/main/images/pawar-dev-process.png" alt="Development Process" width="800" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <h3>01</h3>
+      <p><b>📋 Requirement Analysis</b></p>
+      <p><small>Analyzing user flows, data structures, state logic, and responsive UI goals before writing a single line of code.</small></p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>02</h3>
+      <p><b>🏗️ Component Architecture</b></p>
+      <p><small>Building modular, reusable React/HTML components with clean folder architecture for maximum scalability.</small></p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>03</h3>
+      <p><b>⚡ Logic & API Integration</b></p>
+      <p><small>Engineering robust Node/Express/Laravel REST APIs, MongoDB schemas, state management, and authentication.</small></p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>04</h3>
+      <p><b>🔍 Refactor & Verify</b></p>
+      <p><small>Conducting cross-device testing, performance optimization, code cleanups, and seamless Vercel deployment.</small></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
