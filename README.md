@@ -96,102 +96,44 @@ Engineering high-performance full-stack applications with modular architecture a
 
 ---
 
-<h2 align="left">💻 Featured Projects & Production Repositories</h2>
+## 💻 Featured Projects & Production Repositories
 
-<table width="100%">
-  <!-- ROW 1: Project 1 (CARTORA) & Project 2 (VR BRO'S GARAGE) -->
-  <tr>
-    <!-- PROJECT 1: CARTORA -->
-    <td width="50%" valign="top">
-      <br/>
-      <h3 align="center">💻 CARTORA</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MERN_Stack-Full_Stack_E--Commerce-00CED1?style=flat-square" />
-      </p>
-      <p>A scalable full-stack e-commerce electronics platform built with the complete MERN stack. Features dynamic product filtering, secure cart management, RESTful APIs, and responsive UI.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-007ACC?style=flat-square" />
-      </p>
-      <p align="center">
-        📁 <a href="https://github.com/pawardhruv/Cartora">Source Code</a> • 🌐 <a href="https://cartora-pawar.vercel.app">Live Demo ↗</a>
-      </p>
-      <br/>
-    </td>
+---
 
-    <!-- PROJECT 2: VR BRO'S GARAGE -->
-    <td width="50%" valign="top">
-      <br/>
-      <h3 align="center">💻 VR BRO'S GARAGE</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP_Laravel-Automotive_Service_App-FF2D20?style=flat-square" />
-      </p>
-      <p>Comprehensive Automotive Service Management System supporting full CRUD operations, customer service bookings, vehicle history records, and reactive search dashboard.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-007ACC?style=flat-square" />
-      </p>
-      <p align="center">
-        📁 <a href="https://github.com/pawardhruv/VR-Bro-s-Garage">Source Code</a> • 🌐 <a href="https://vrgarage.theonlypawar.com">Live Demo ↗</a>
-      </p>
-      <br/>
-    </td>
-  </tr>
+### 1. 🛒 CARTORA — MERN Stack e-Commerce Platform
+> A full-stack e-commerce electronics platform featuring dynamic product filtering, secure cart management, RESTful APIs, and responsive UI.
 
-  <!-- ROW 2: Project 3 (NOIR LUXURY) & Project 4 (EMPLOYEE MANAGEMENT SYSTEM) -->
-  <tr>
-    <!-- PROJECT 3: NOIR LUXURY -->
-    <td width="50%" valign="top">
-      <br/>
-      <h3 align="center">💻 NOIR</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Creative_Web-Luxury_Fashion-FF69B4?style=flat-square" />
-      </p>
-      <p>An Awwwards-grade luxury clothing web experience featuring GSAP ScrollTrigger timelines, clip-path morphing menu navigation, live statistics counters, and Lenis smooth scrolling.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
-        <img src="https://img.shields.io/badge/Lenis-000000?style=flat-square" />
-      </p>
-      <p align="center">
-        📁 <a href="https://github.com/pawardhruv/Noir-Luxury-Fashion">Source Code</a> • 🌐 <a href="https://noir-fashion.vercel.app">Live Demo ↗</a>
-      </p>
-      <br/>
-    </td>
+* **Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `REST API`
+* **Links:** [📁 Source Code](https://github.com/pawardhruv/Cartora) | [🌐 Live Demo ↗](https://cartora-pawar.vercel.app)
 
-    <!-- PROJECT 4: EMS PRO -->
-    <td width="50%" valign="top">
-      <br/>
-      <h3 align="center">💻 emsPRO</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MERN_Stack-Employee_Management-00FA9A?style=flat-square" />
-      </p>
-      <p>Comprehensive Employee Management System supporting full CRUD operations, role assignment, MongoDB persistence, Express REST endpoints, and reactive employee search.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/REST_API-007ACC?style=flat-square" />
-      </p>
-      <p align="center">
-        📁 <a href="https://github.com/pawardhruv/emsPRO">Source Code</a> • 🌐 <a href="https://emspro-pawar.vercel.app">Live Demo ↗</a>
-      </p>
-      <br/>
-    </td>
-  </tr>
-</table>
+---
+
+### 2. 🚗 VR BRO'S GARAGE — Automotive Service Management
+> Comprehensive Automotive Service Management System supporting full CRUD operations, customer service bookings, vehicle history records, and interactive dashboard.
+
+* **Tech Stack:** `PHP 8` `Laravel 11` `MySQL` `Bootstrap 5` `REST API`
+* **Links:** [📁 Source Code](https://github.com/pawardhruv/VR-Bro-s-Garage) | [🌐 Live Demo ↗](https://vrgarage.theonlypawar.com)
+
+---
+
+### 3. 🎩 NOIR — Luxury Fashion Web Experience
+> An Awwwards-grade luxury clothing web experience featuring GSAP ScrollTrigger timelines, clip-path morphing menu navigation, live statistics counters, and Lenis smooth scrolling.
+
+* **Tech Stack:** `HTML5` `Tailwind CSS` `JavaScript` `GSAP Animations` `Lenis Scroll`
+* **Links:** [📁 Source Code](https://github.com/pawardhruv/Noir-Luxury-Fashion) | [🌐 Live Demo ↗](https://noir-fashion.vercel.app)
+
+---
+
+### 4. 👥 emsPRO — Employee Management System
+> Comprehensive Employee Management System supporting full CRUD operations, role assignment, MongoDB persistence, Express REST endpoints, and reactive employee search.
+
+* **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `REST API`
+* **Links:** [📁 Source Code](https://github.com/pawardhruv/emsPRO) | [🌐 Live Demo ↗](https://emspro-pawar.vercel.app)
+
+---
 
 <p align="center">
-  🔍 <a href="https://github.com/pawardhruv?tab=repositories"><b>View All Repositories ➔</b></a>
+  🔍 <b><a href="https://github.com/pawardhruv?tab=repositories">View All Repositories ➔</a></b>
 </p>
 
 ---
