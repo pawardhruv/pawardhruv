@@ -88,15 +88,11 @@ Engineering high-performance full-stack applications with modular architecture a
 
 <h2 align="left">🛠️ Skill Proficiency</h2>
 
-<div align="center">
-  <img src="https://deno-skill-badges.deno.dev/React%2019-92?bg=1e293b&color=61dafb" alt="React" /><br/>
-  <img src="https://deno-skill-badges.deno.dev/JavaScript-90?bg=1e293b&color=f7df1e" alt="JS" /><br/>
-  <img src="https://deno-skill-badges.deno.dev/Node.js-85?bg=1e293b&color=339933" alt="Node" /><br/>
-  <img src="https://deno-skill-badges.deno.dev/Express.js-82?bg=1e293b&color=ffffff" alt="Express" /><br/>
-  <img src="https://deno-skill-badges.deno.dev/MongoDB-80?bg=1e293b&color=47a248" alt="Mongo" /><br/>
-  <img src="https://deno-skill-badges.deno.dev/PHP%20%2F%20Laravel-84?bg=1e293b&color=ff2d20" alt="Laravel" /><br/>
-  <img src="https://deno-skill-badges.deno.dev/Tailwind%20CSS-88?bg=1e293b&color=38b2ac" alt="Tailwind" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,php,laravel,html,css,tailwind,bootstrap,git,github,vscode,postman&perline=8&theme=dark" alt="Dhruv Pawar Skills" />
+  </a>
+</p>
 
 ---
 
