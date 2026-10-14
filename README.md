@@ -215,7 +215,7 @@ Engineering high-performance full-stack applications with modular architecture a
 
 ---
 
-<!-- BACKGROUND ANIMATION ELEMENT (Simple background line reference) -->
-<img src="https://raw.githubusercontent.com/theonlypawar/theonlypawar/main/images/line_separator.png" width="100%" />
-
-</div>
+<!-- SECTION SEPARATOR LINE -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
+</p>
